@@ -1,0 +1,8 @@
+MIDlet-1: PlaneGame,,PlaneGame
+MIDlet-Jar-Size: 469542
+MIDlet-Jar-URL: PlaneGame.jar
+MIDlet-Name: PlaneGame Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
